@@ -119,3 +119,4 @@ Links
 * [jnewland/github-campfire](http://github.com/jnewland/github-campfire/)
 * [webs/irccat](http://github.com/webs/irccat)
 * [jnunemaker/github-twitter](http://github.com/jnunemaker/github-twitter/)
+* [tactivos/jenkins-notify](http://github.com/tactivos/jenkins-notify/) -- GitHub to Jenkins made easy 
